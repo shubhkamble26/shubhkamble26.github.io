@@ -9,7 +9,7 @@
 	<h2>About Me:</h2>
 	<p><strong>Name:</strong>Shubham Namdev Kamble</p>
 <hr>	
-	<img src="my_photo.JPG" style="height: 300px;width: 300px;">
+	<img src="my_photo.JPG">
 <hr>	
 	<p><strong>Education:</strong>
 		<ul>
