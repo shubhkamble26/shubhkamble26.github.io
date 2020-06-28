@@ -23,7 +23,7 @@
 			<li>Jawahar Navodaya Vidyalaya,Pune
 				<ul>
 					<li>Class XII</li>
-					<li>Stream:Science &lt;PCMB&gt;</li>
+					<li>Stream:Science &lt;PCM&gt;</li>
 					<li>Percentage: 93%</li>
 				</ul>
 			</li>
